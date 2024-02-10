@@ -1,0 +1,31 @@
+body {
+    font-size: 15pt;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+.nav{
+  text-align: center;
+  height: 100px;
+  background-color: #A4A4A4;
+}
+.nav .main-title{
+  font-size: 50px;
+  font-family: 'Protest Revolution', sans-serif;
+ 
+}
+.c1{color: #FF6900}
+.c2{color: #00FFC8}
+.c3{color: #0090FF}
+.c4{color: #FF0098}
+.c5{color: #9D00FF}
+p{
+font-family: 'Nunito', sans-serif;
+}
+.abt{
+  height: 50px;
+  width: 100px;
+  background-color: #9D00FF;
+  color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+}
